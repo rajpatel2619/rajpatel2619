@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rajpatel2619/" target="blank"><img src="https://img.shields.io/twitter/follow/rajpatel2619?logo=twitter&style=for-the-badge" alt="rajpatel2619"  </p>
 
-- 🔭 I’m currently enrolled in **MTech - Mathematics & Computer Science**
+- 🔭 I’m currently pursuing **MTech in Mathematics & Computer Science**
 
 - 🌱 I’m currently learning **Machine Learning**
 
