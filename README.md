@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rajpatel2619/" target="blank"><img src="https://img.shields.io/twitter/follow/rajpatel2619?logo=twitter&style=for-the-badge" alt="rajpatel2619"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently pursuing M.Tech. in Mathematics & Computer Science ****
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Machine Learning , Development, Programming**
 
 - 📫 How to reach me **kakhilesh79@gmail.com**
 
